@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Github",
+        "link": "https://github.com/techpals/hugo-serif-theme",
+        "image": "images/social/github.svg"
+    },
+    {
+        "name": "Twitter",
+        "link": "https://twitter.com/techpals",
+        "image": "images/social/twitter.svg"
+    }
+]
