@@ -37,18 +37,18 @@ theme = "hugo-serif-theme"
 [menu]
   # Main Menu
   [[menu.main]]
-    name = "Services"
+    name = "What We Do"
     url = "/services/"
       weight = 1
 
   [[menu.main]]
-      name = "Team"
+      name = "Who We Are"
       url = "/team/"
       weight = 2
 
   [[menu.main]]
-      name = "Jobs"
-      url = "/jobs/"
+      name = "Careers"
+      url = "/careers/"
       weight = 3
 
   [[menu.main]]

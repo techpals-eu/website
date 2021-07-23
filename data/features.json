@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
+    "title": "Software Engineers",
+    "description": "Experienced software engineers to build the next big thing.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Agile Coaches",
+    "description": "Our agile coaches will help you transform your organization.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Product Managers",
+    "description": "We offer experienced project managers to grow your products.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]

@@ -7,6 +7,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Hugo Business Theme.
+# TechPals - Your software pals
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+We comprise of great software engineers, agile coaches and product manager that will help
+you grow your product and build the next big thing.
