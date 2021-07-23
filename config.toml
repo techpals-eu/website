@@ -1,5 +1,5 @@
 languageCode = "en-us"
-baseURL = "https://techpals.eu"
+baseURL = "https://techpals-eu.github.io/website/"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 
