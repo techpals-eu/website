@@ -18,10 +18,10 @@ theme = "hugo-serif-theme"
     show_services_button = true  # show / hide the "view all services" button
 
   [params.logo]
-    mobile = "images/logo/logo-mobile.svg"
-    mobile_height = "36px"
-    desktop = "images/logo/logo.svg"
-    desktop_height = "36px"
+    mobile = "images/logo/techpals.png"
+    mobile_height = "100px"
+    desktop = "images/logo/techpals.png"
+    desktop_height = "150px"
     alt = "TechPals consultancy agency"
 
   [params.seo]
