@@ -19,7 +19,7 @@ jobs:
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
-        personal_token: ${{ secrets.TOKEN }}
+        personal_token: ${{ secrets.github-pages.TOKEN }}
         external_repository: techpals-eu/techpals-eu.github.io
         publish_dir: ./public
         #   keep_files: true
