@@ -1,7 +1,7 @@
 ---
 title: 'Homepage'
-meta_title: 'Hugo Serif Theme'
-description: "Serif is a modern business theme for Hugo."
+meta_title: 'TechPals - Software Consultancy Agency'
+description: "TechPals is a modern consultancy agency to help you with your software development."
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true

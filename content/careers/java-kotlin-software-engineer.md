@@ -3,7 +3,7 @@ title: "Java/Kotlin Software Engineer"
 date: 2021-07-01T12:33:46+10:00
 draft: false
 featured: true
-weight: 1
+weight: 2
 ---
 
 We are looking for a passionate Software Engineer with a strong technical background and great problem solving skills to join us. The candidate will work with international development teams in fast growing tech startups.
