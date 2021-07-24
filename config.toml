@@ -29,7 +29,7 @@ theme = "hugo-serif-theme"
     meta_twitter_creator = "@techpals"
 
   [params.team]
-    summary_large_truncate = 120  # How many characters to include in the summary of the team bios (large layout) before truncating
+    summary_large_truncate = 100  # How many characters to include in the summary of the team bios (large layout) before truncating
 
   [params.footer]
     copyright_text = 'TechPals'
