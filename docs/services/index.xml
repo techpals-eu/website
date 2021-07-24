@@ -5,6 +5,35 @@
     <link>https://techpals.eu/services/</link>
     <description>Recent content in What We Do on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://techpals.eu/services/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jul 2021 12:33:46 +1000</lastBuildDate><atom:link href="https://techpals.eu/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our Culture</title>
+      <link>https://techpals.eu/services/our-culture/</link>
+      <pubDate>Thu, 01 Jul 2021 12:33:46 +1000</pubDate>
+      
+      <guid>https://techpals.eu/services/our-culture/</guid>
+      <description>Our culture is described by our values:
+ Agile culture. Zeal for excellence.  </description>
+    </item>
+    
+    <item>
+      <title>Our Expertise</title>
+      <link>https://techpals.eu/services/our-expertise/</link>
+      <pubDate>Thu, 01 Jul 2021 12:33:46 +1000</pubDate>
+      
+      <guid>https://techpals.eu/services/our-expertise/</guid>
+      <description>Our many years of experience in software development is our key to success.</description>
+    </item>
+    
+    <item>
+      <title>Our Team</title>
+      <link>https://techpals.eu/services/our-team/</link>
+      <pubDate>Thu, 01 Jul 2021 12:33:46 +1000</pubDate>
+      
+      <guid>https://techpals.eu/services/our-team/</guid>
+      <description>Our team comprises of a group of software developers and engineers.</description>
+    </item>
+    
   </channel>
 </rss>
