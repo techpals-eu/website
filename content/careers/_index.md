@@ -2,6 +2,7 @@
 title: 'Careers'
 meta_title: 'Careers at TechPals'
 description: "Great careers paths at TechPals."
+image: "images/logo/techpals.png"
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
