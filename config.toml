@@ -32,7 +32,7 @@ theme = "hugo-serif-theme"
     summary_large_truncate = 120  # How many characters to include in the summary of the team bios (large layout) before truncating
 
   [params.footer]
-    copyright_text = 'Techpals'
+    copyright_text = 'TechPals'
 
 [menu]
   # Main Menu
@@ -52,12 +52,12 @@ theme = "hugo-serif-theme"
       weight = 3
 
   [[menu.main]]
-      name = "About"
+      name = "About Us"
       url = "/about/"
       weight = 4
 
   [[menu.main]]
-      name = "Contact"
+      name = "Contact Us"
       url = "/contact/"
       weight = 5
 
@@ -68,11 +68,11 @@ theme = "hugo-serif-theme"
       weight = 1
 
   [[menu.footer]]
-      name = "Jobs"
-      url = "/jobs/"
+      name = "Careers"
+      url = "/careers/"
       weight = 2
 
   [[menu.footer]]
-    name = "Contact"
+    name = "Contact Us"
     url = "/contact/"
       weight = 3
