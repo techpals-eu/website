@@ -1,5 +1,9 @@
 ---
 title: 'About Us'
+meta_title: 'TechPals - About Us'
+description: "Who we are and why we do what we do."
+intro_image: "images/illustrations/pointing.svg"
+image: "images/logo/techpals.png"
 date: 2018-02-22T17:01:34+07:00
 ---
 
