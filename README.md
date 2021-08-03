@@ -1,5 +1,10 @@
 # techpals.eu
 
+
+## Dependencies
+
+- [hugo](https://gohugo.io/getting-started/quick-start/)
+
 ## Local
 
 ```
