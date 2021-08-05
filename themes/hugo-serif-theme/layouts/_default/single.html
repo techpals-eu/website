@@ -6,7 +6,13 @@
     <div class="col-12 col-md-8">
       <h1 class="title">{{.Title}}</h1>
       <div class="content">{{.Content}}</div>
+
+      {{ if .Params.apply_link }}
+      <a class="button" href="{{ .Params.apply_link }}">Apply</a>
+      {{ end }}
     </div>
   </div>
 </div>
+
+
 {{ end }}
