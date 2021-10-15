@@ -4,7 +4,7 @@ meta_title: 'TechPals - Software Consultancy Agency'
 description: "TechPals is a modern consultancy agency to help you with your software development."
 intro_image: "images/illustrations/pointing.svg"
 image: "images/logo/techpals.png"
-intro_image_absolute: true
+intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---
 
