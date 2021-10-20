@@ -1035,7 +1035,7 @@ section {
 #pricing .card .list-group {
   margin-bottom: 15px;
 }
-#pricing .card .btn {
+#pricing .card .btn, .btn {
   text-transform: uppercase;
   font-size: 13px;
   font-weight: 500;
