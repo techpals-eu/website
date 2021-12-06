@@ -140,7 +140,7 @@ h1, h2, h3, h4, h5, h6 {
 # Navigation Menu
 --------------------------------------------------------------*/
 /**
-* Desktop Navigation 
+* Desktop Navigation
 */
 .navbar {
   padding: 0;
@@ -230,7 +230,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /**
-* Mobile Navigation 
+* Mobile Navigation
 */
 .mobile-nav-toggle {
   color: #413e66;
@@ -1561,4 +1561,8 @@ font-weight: 700;
   padding: 0 10px 10px 0px;
   font-size: 1.2rem;
   margin: 0;
+}
+
+.tab-content .sub-title {
+	padding: 20px;
 }
