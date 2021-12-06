@@ -497,10 +497,13 @@ section {
 
 /* Services Section
 --------------------------------*/
-#services {
+#services,
+.contact,
+#competences {
   padding: 60px 0 40px 0;
 }
-#services .box {
+#services .box,
+#competences .box {
   padding: 30px;
   position: relative;
   overflow: hidden;
@@ -511,10 +514,12 @@ section {
   transition: all 0.3s ease-in-out;
   text-align: center;
 }
-#services .box:hover {
+#services .box:hover,
+#competences .box:hover {
   transform: scale(1.1);
 }
-#services .icon {
+#services .icon,
+#competences .icon {
   margin: 0 auto 15px auto;
   padding-top: 12px;
   display: inline-block;
@@ -523,22 +528,27 @@ section {
   width: 60px;
   height: 60px;
 }
-#services .icon i {
+#services .icon i,
+#competences .icon i {
   font-size: 36px;
   line-height: 0;
 }
-#services .title {
-  font-weight: 700;
+#services .title,
+#competences .title  {
+font-weight: 700;
   margin-bottom: 15px;
   font-size: 18px;
 }
-#services .title a {
+#services .title a,
+#competences .title a {
   color: #111;
 }
-#services .box:hover .title a {
+#services .box:hover .title a,
+#competences .box:hover .title a {
   color: #1bb1dc;
 }
-#services .description {
+#services .description,
+#competences .description {
   font-size: 14px;
   line-height: 28px;
   margin-bottom: 0;
@@ -547,45 +557,45 @@ section {
 
 /* Why Us Section
 --------------------------------*/
-#why-us {
+#about-us {
   padding: 60px 0;
 }
 @media (max-width: 991px) {
-  #why-us .why-us-content {
+  #about-us .why-us-content {
     padding-top: 30px;
   }
 }
-#why-us .why-us-content .features {
+#about-us .why-us-content .features {
   margin: 0 0 15px 0;
   padding: 0;
 }
-#why-us .why-us-content .features i {
+#about-us .why-us-content .features i {
   font-size: 36px;
   float: left;
 }
-#why-us .why-us-content .features h4 {
+#about-us .why-us-content .features h4 {
   font-size: 24px;
   font-weight: 600;
   margin-left: 56px;
   color: #413e66;
   margin-bottom: 5px;
 }
-#why-us .why-us-content .features p {
+#about-us .why-us-content .features p {
   font-size: 16px;
   margin-left: 56px;
   color: #555186;
 }
-#why-us .counters {
+#about-us .counters {
   padding-top: 40px;
 }
-#why-us .counters span {
+#about-us .counters span {
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
   font-size: 48px;
   display: block;
   color: #555186;
 }
-#why-us .counters p {
+#about-us .counters p {
   padding: 0;
   margin: 0 0 20px 0;
   font-family: "Montserrat", sans-serif;
@@ -1147,10 +1157,11 @@ section {
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
-#footer {
+#footer,
+#contact {
   padding: 0 0 30px 0;
   font-size: 14px;
-  background: #fff;
+  /* background: #fff; */
 }
 #footer .footer-top {
   padding: 60px 0 30px 0;
@@ -1363,4 +1374,191 @@ section {
 }
 #footer .credits a:hover {
   color: #0a98c0;
+}
+
+.contact {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  width: 50%;
+  text-align: center;
+  padding: 60px 0 40px 0;
+}
+
+.contact .footer-top .footer-info h3 {
+  font-size: 34px;
+  line-height: 1;
+  font-family: "Montserrat", sans-serif;
+  color: #413e66;
+  font-weight: 400;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+.contact .footer-top .footer-info p {
+  font-size: 13px;
+  font-family: "Montserrat", sans-serif;
+  color: #535074;
+}
+
+
+/* Our values */
+#values {
+  padding: 60px 0 40px 0;
+}
+#values .box {
+  padding: 30px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 10px;
+  margin: 0 10px 40px 10px;
+  background: #fff;
+  box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
+  transition: all 0.3s ease-in-out;
+  text-align: center;
+}
+#values .box:hover {
+  transform: scale(1.1);
+}
+#values .icon {
+  margin: 0 auto 15px auto;
+  padding-top: 12px;
+  display: inline-block;
+  text-align: center;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+}
+#values .icon i {
+  font-size: 36px;
+  line-height: 0;
+}
+#values .title {
+  font-weight: 700;
+  margin-bottom: 15px;
+  font-size: 18px;
+}
+#values .title a {
+  color: #111;
+}
+#values .box:hover .title a {
+  color: #1bb1dc;
+}
+#values .description {
+  font-size: 14px;
+  line-height: 28px;
+  margin-bottom: 0;
+  text-align: left;
+}
+
+/* Why Us Classes */
+.why-us {
+  padding: 60px 0;
+}
+.why-us .why-us-content {
+  padding-left: 10px;
+}
+@media (max-width: 991px) {
+  .why-us .why-us-content {
+    padding-top: 30px;
+    padding-left: 10px;
+  }
+}
+.why-us .why-us-content .features {
+  margin: 0 0 15px 0;
+  padding: 0;
+}
+.why-us .why-us-content .features i {
+  font-size: 36px;
+  float: left;
+}
+.why-us .why-us-content .features h4 {
+  font-size: 24px;
+  font-weight: 600;
+  margin-left: 56px;
+  color: #413e66;
+  margin-bottom: 5px;
+}
+.why-us .why-us-content .features p {
+  font-size: 16px;
+  margin-left: 56px;
+  color: #555186;
+}
+.why-us .counters {
+  padding-top: 40px;
+}
+.why-us .counters span {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size: 48px;
+  display: block;
+  color: #555186;
+}
+.why-us .counters p {
+  padding: 0;
+  margin: 0 0 20px 0;
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  color: #8a87b6;
+}
+
+
+
+.service-items {
+  margin-top: 10px;
+  padding: 10px;
+}
+
+.service-items li {
+  list-style: none;
+  margin: 0;
+  padding: 10px;
+  display: inline-block;
+  font-size: 1.5rem;
+}
+
+.service-items .tab-content {
+  padding: 10px;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+  color: #495057;
+  background-color: transparent;
+  border-color: transparent transparent #007aff transparent;
+}
+
+.nav-tabs {
+  border-bottom: none;
+}
+
+.nav-tabs .nav-link {
+  color: #495057;
+  margin-bottom: -1px;
+  background: 0 0;
+  font-size: 2.1rem;
+  font-weight: 600;
+  border-width: 2px;
+}
+
+.nav-link {
+  display: block;
+  padding: .5rem 1rem;
+  color: #413e66;
+  text-decoration: none;
+}
+
+.nav-tabs .nav-link:hover {
+  border-color: transparent transparent #007aff transparent;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sub-title {
+  padding: 10px;
+  font-size: 1.2rem;
+  margin: 0;
 }
