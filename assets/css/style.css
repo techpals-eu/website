@@ -495,6 +495,14 @@ section {
   transition: 0.5s;
 }
 
+#about-us .about-content {
+  color: #555186;
+  padding: 0 10px 10px 0px;
+  font-size: 1.2rem;
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
 /* Services Section
 --------------------------------*/
 #services,
@@ -537,7 +545,7 @@ section {
 #competences .title  {
 font-weight: 700;
   margin-bottom: 15px;
-  font-size: 18px;
+  font-size: 21px;
 }
 #services .title a,
 #competences .title a {
@@ -549,7 +557,7 @@ font-weight: 700;
 }
 #services .description,
 #competences .description {
-  font-size: 14px;
+  font-size: 18px;
   line-height: 28px;
   margin-bottom: 0;
   text-align: left;
@@ -581,7 +589,7 @@ font-weight: 700;
   margin-bottom: 5px;
 }
 #about-us .why-us-content .features p {
-  font-size: 16px;
+  font-size: 18px;
   margin-left: 56px;
   color: #555186;
 }
@@ -1381,7 +1389,7 @@ font-weight: 700;
   margin-right: auto;
   margin-top: 60px;
   margin-bottom: 60px;
-  width: 50%;
+  /*width: 50%;*/
   text-align: center;
   padding: 60px 0 40px 0;
 }
@@ -1480,7 +1488,7 @@ font-weight: 700;
   margin-bottom: 5px;
 }
 .why-us .why-us-content .features p {
-  font-size: 16px;
+  font-size: 18px;
   margin-left: 56px;
   color: #555186;
 }
