@@ -1,0 +1,2 @@
+pink: 	#FF6584
+purple:	#413E66
