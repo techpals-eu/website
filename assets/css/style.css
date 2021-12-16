@@ -1190,7 +1190,7 @@ font-weight: 700;
   text-transform: uppercase;
 }
 #footer .footer-top .footer-info p {
-  font-size: 13px;
+  /* font-size: 13px; */
   line-height: 24px;
   margin-bottom: 0;
   font-family: "Montserrat", sans-serif;
@@ -1404,7 +1404,6 @@ font-weight: 700;
   text-transform: uppercase;
 }
 .contact .footer-top .footer-info p {
-  font-size: 13px;
   font-family: "Montserrat", sans-serif;
   color: #535074;
 }
@@ -1573,4 +1572,15 @@ font-weight: 700;
 
 .tab-content .sub-title {
 	padding: 20px;
+}
+
+section {
+  min-height: 500px;
+}
+
+.contact {
+  display: flex;
+  justify-content: center; /* align horizontal */
+  align-items: center; /* align vertical */
+  padding: 20px;
 }
