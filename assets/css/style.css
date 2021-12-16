@@ -1395,19 +1395,16 @@ font-weight: 700;
 }
 
 .contact .footer-top .footer-info h3 {
-  font-size: 34px;
+  font-size: 36px;
   line-height: 1;
   font-family: "Montserrat", sans-serif;
   color: #413e66;
-  font-weight: 400;
-  letter-spacing: 3px;
-  text-transform: uppercase;
+  font-weight: 700;
 }
 .contact .footer-top .footer-info p {
   font-family: "Montserrat", sans-serif;
   color: #535074;
 }
-
 
 /* Our values */
 #values {
